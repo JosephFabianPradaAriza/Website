@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Dont be scared to learn</title>
+
+    
+</head>
+<body>
+
+    <div class="head">
+
+        <div class="logo">
+            <a href="#">ENGLISH WITH JAUME</a>
+        </div>
+
+        <ul class="navbar">
+            <a href="https://www.csinow.edu/blog/five-stages-learning-new-language/">Metodology</a>
+            <a href="https://www.bbc.com/worklife/article/20150302-secrets-to-learning-a-language">Some Tips</a>
+            <a href="https://www.britishcouncil.es/en/english/levels">English Levels</a>
+        </ul>
+
+
+    </div>
+
+    <header class="content header">
+        <h2 class="title">Inicio</h2>
+        <p>
+            Our purpose is mainly to help you learn, improve and even practice your English, to start with do you know your English level? If not, why not take a short test to find out your level?  Although if you already know it, why not go straight to the point.
+        </p>
+
+        <div class="btn-home">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmI7HRzVq049sz9vdzm1yiY_CVoEgr0-WdUDXBE2T0lq61Ug/viewform" class="btn">Take the exam</a>
+           
+        </div>
+    </header>
+
+    <section class="content sau">
+
+        <h2 class="title">Metodology</h2>
+        <p>If you are wondering how we will help you with your English, our learning systems are based on methods applied by many other people 
+            many other people who are:
+        </p>
+        
+        <div class="box-container">
+
+            <div class="box">
+                <i class="fab fa-angular"></i>
+                <h3>Listen and repeat</h3>
+                <p>Why not try to sing a song to get used to the language?</p>
+            </div>
+            <div class="box">
+                <i class="fab fa-apple"></i>
+                <h3>Together with technology.</h3>
+                <p>By making use of multiple communication channels or devices, we will have an overview of the progress made..</p>
+            </div>
+            <div class="box">
+                <i class="fab fa-android"></i>
+                <h3>Together we are more.</h3>
+                <p>Join us on this journey with thousands of people like you who are looking to improve their English.</p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="content about">
+
+        <h2 class="title">Us</h2>
+        <p>Our main purpose is that people can have access to learning a language for free with a large amount of material to strengthen and
+            material to strengthen and achieve our goals.
+        </p>
+
+        <p> .</p>           
+        <p> .</p>
+    </section>
+
+    <section class="content price">
+
+        <article class="contain">
+            <h2 class="title"></h2>
+            <p>Now that you know what our learning methodologies are and who we are, take action now and fulfill your desire to know/improve and even increase your English vocabulary.
+                and fulfill your desire to know/improve or even increase your English vocabulary. Don't put off until 
+                tomorrow what you can do today!  
+            </p>
+            <p>
+                Here you have all english levels to start learning and improving.
+            </p>
+            <P>.</P>
+            <a href="https://www.esleschool.com/beginner-exercises/" class="btn">A1 </a>
+            <a href="https://www.cambridgeenglish.org/learning-english/parents-and-children/activities-for-children/a2-level/" class="btn">A2 </a>
+            <a href="https://test-english.com/grammar-points/b1-b2/" class="btn">B1 </a>
+            <a href="https://www.practisingenglish.com/b2-level/" class="btn">B2 </a>
+            <a href="https://www.esleschool.com/c1-politeness-grammar/" class="btn">C1 </a>
+            <a href="https://www.ieltstestonline.com/courses/english-course-level-c2/" class="btn">C2 </a>
+            <P>.</P>
+    <section class="content contact">
+        <h2 class="title">Things to know:)</h2>
+        <p>Thinking of traveling to a country to train or improve your English? Here is a map of the countries where they speak English, in which you will generate a breakthrough in your second, third, fourth or even fifth language!</p>
+        <figure class="map">
+            <img src="mapa.png" height="220px" width="100%" alt="mapa">
+        </figure>
+    </section>
+    
+</body>
+</html>
